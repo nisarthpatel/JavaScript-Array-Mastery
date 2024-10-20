@@ -1,0 +1,17 @@
+my-js-functions/
+│
+├── src/
+│ ├── copySorted.js
+│ ├── calculator.js
+│ ├── camelize.js
+│ ├── averageAge.js
+│ ├── filterRangeInPlace.js
+│ ├── sortByAge.js
+│ ├── groupById.js
+│ ├── unique.js
+│ ├── filterRange.js
+│ └── main.js
+│
+├── .gitignore
+├── README.md
+└── package.json
